@@ -1,0 +1,14 @@
+{
+  "name": "cypress-automacao-de-testes-e2e",
+  "version": "1.0.0",
+  "description": "Curso Alura - cypress: Automacao de testes e2e",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Marcelo Hideo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
